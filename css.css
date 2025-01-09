@@ -313,16 +313,19 @@ p{
         font-size: 0.7rem;
         
     }
-    #w p{
+    .w p{
         font-size: 30px;
+        margin-left: 15px;
 
     }
     .font{
         font-size: 30px;
         height: 200px;
+        margin-left: 15px;
     }
     .font p{
-        margin: 51px 0;  
+        margin: 51px 0;
+        
         
 
     }
