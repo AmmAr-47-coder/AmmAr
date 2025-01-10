@@ -307,7 +307,7 @@ p{
         flex-grow: 1;
     }    
 } 
-@media(min-width:100px){
+@media(max-width:500px){
 
     header a{
         font-size: 0.7rem;
